@@ -1,6 +1,6 @@
 # acl-emnlp-poster-templates
 
-This repository contains poster templates for ACL and EMNLP conferences in PPT and PDF formats. They are far from awesome but do work. Feel free to upload your own awesome posters.
+This repository contains poster templates for ACL and EMNLP conferences in PPT and PDF formats. They are far from awesome but do work. Feel free to upload your own posters.
 
 ## ACL 2024 Poster Template
 
